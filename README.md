@@ -7,7 +7,8 @@ Live links to sites and web apps I've designed, built, and shipped.
 - **Chris Hori Photography** — [chrishori.com](https://chrishori.com)
 - **Carlson Gracie Irvine** — [carlsongracie-irvine.com](https://carlsongracie-irvine.com)
 - **TRSTXCYBER** — [trstxcyber.com](https://trstxcyber.com)
-- **Triad Turf** — [pianodre.github.io/TriadTurf](https://pianodre.github.io/TriadTurf/)
+- **Mint Theory** — [mint-theory.com](http://mint-theory.com)
+- **Triad Turf** — [dylan-ernst.github.io/TriadTurf](https://dylan-ernst.github.io/TriadTurf/)
 
 ## Personal sites
 
@@ -16,5 +17,5 @@ Live links to sites and web apps I've designed, built, and shipped.
 
 ## Web apps
 
-- **Gym Tracker** — [pianodre.github.io/Gym-Tracker](https://pianodre.github.io/Gym-Tracker/)
-- **Jiujitsu Manager** — [pianodre.github.io/Jiujitsu-Manager](https://pianodre.github.io/Jiujitsu-Manager/)
+- **Gym Tracker** — [dylan-ernst.github.io/Gym-Tracker](https://dylan-ernst.github.io/Gym-Tracker/)
+- **Jiujitsu Manager** — [dylan-ernst.github.io/Jiujitsu-Manager](https://dylan-ernst.github.io/Jiujitsu-Manager/)

@@ -7,7 +7,6 @@ Live links to sites and web apps I've designed, built, and shipped.
 - **Chris Hori Photography** — [chrishori.com](https://chrishori.com)
 - **Carlson Gracie Irvine** — [carlsongracie-irvine.com](https://carlsongracie-irvine.com)
 - **TRSTXCYBER** — [trstxcyber.com](https://trstxcyber.com)
-- **Mint Theory** — [mint-theory.com](http://mint-theory.com)
 - **Triad Turf** — [pianodre.github.io/TriadTurf](https://pianodre.github.io/TriadTurf/)
 
 ## Personal sites

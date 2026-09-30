@@ -10,7 +10,6 @@ Live links to sites and web apps I've designed, built, and shipped.
 - **Carlson Gracie Irvine**: [carlsongracie-irvine.com](https://carlsongracie-irvine.com)
 - **TRSTXCYBER**: [trstxcyber.com](https://trstxcyber.com)
 - **Remember When Photo Booth**: [rememberwhenpb.com](https://www.rememberwhenpb.com/)
-- **Triad Turf**: [dylan-ernst.github.io/TriadTurf](https://dylan-ernst.github.io/TriadTurf/)
 
 ## Personal sites
 
